@@ -67,6 +67,9 @@
     <Compile Include="Assets\Script\Island.cs" />
     <Compile Include="Assets\Script\Peluru.cs" />
     <Compile Include="Assets\Script\Pesawat.cs" />
+    <Reference Include="UnityEditor.StandardEvents">
+      <HintPath>D:/Tugas Kuliah/Workshop Developer Game/SpaceShooter/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>D:/Tugas Kuliah/Workshop Developer Game/SpaceShooter/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
@@ -75,9 +78,6 @@
     </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>D:/Tugas Kuliah/Workshop Developer Game/SpaceShooter/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>D:/Tugas Kuliah/Workshop Developer Game/SpaceShooter/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
